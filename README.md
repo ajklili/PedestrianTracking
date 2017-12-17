@@ -17,7 +17,8 @@ pip install -r requirements.txt
 python tracking.py demo.avi
 ```
 
-4. Key Parameters
-In tracking.py,
+4. Key Parameters in tracking.py
+```
 line 7: interested area
 line 8: alpha correction coefficient
+```
